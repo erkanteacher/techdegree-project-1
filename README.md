@@ -1,4 +1,5 @@
 # techdegree-project-1
  My first techdegree project - Random Generator
- Javascript project 1
- Changes on Local
+ Javascript Project 1
+ Grading Level: Exceed Expectation
+
